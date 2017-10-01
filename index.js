@@ -1,7 +1,7 @@
 // function Objects() {
 //   var recipes = {breakfast: 'eggs'};
 //   // var recipes = new Object(breakfast: 'eggs');
-// 
+//
 //   // return recipes;
 // }
 
