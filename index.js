@@ -8,7 +8,7 @@
   var recipes = {breakfast: 'eggs'};
 
 function updateObjectWithKeyAndValue (objectVar, keyVar, valueVar) {
-
+  debugger
   var cloneObject = Object.assign({}, objectVar)
 
   cloneObject[keyVar] = valueVar;
