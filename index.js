@@ -1,6 +1,6 @@
 function Objects() {
   // var recipes = {};
-  var recipes = new Object();
+  var recipes = new Object(breakfast:'eggs');
 
   return recipes;
 }
