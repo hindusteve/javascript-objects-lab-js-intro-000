@@ -13,3 +13,10 @@ function updateObjectWithKeyAndValue (objectVar, keyVar, valueVar) {
   return cloneObject;
 
 }
+
+function destructivelyUpdateObjectWithKeyAndValue (object, key, value) {
+
+  object[key] = value
+  return object
+  
+}
