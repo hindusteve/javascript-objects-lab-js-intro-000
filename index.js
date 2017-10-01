@@ -9,9 +9,7 @@ function updateObjectWithKeyAndValue (objectVar, keyVar, valueVar) {
 
   var cloneObject = Object.assign({}, objectVar)
 
-  objectVar[keyVar] = valueVar;
-  return objectVar;
-
-  cloneObject = object.assign
+  cloneObject[keyVar] = valueVar;
+  return cloneObject;
 
 }
