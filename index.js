@@ -2,7 +2,7 @@ function Objects() {
   var recipes = {breakfast: 'eggs'};
   // var recipes = new Object(breakfast: 'eggs');
 
-  return recipes;
+  // return recipes;
 }
 
 function updateObjectWithKeyAndValue (objectVar, keyVar, valueVar) {
